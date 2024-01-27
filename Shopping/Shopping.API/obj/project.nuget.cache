@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BROHXQ7MmZ1OLPs+lFjoQhgeqiQc62Nxhzmg6lCfkhsxUaEKa8WYbsdFmysedHUAPPKcM68iymlkJPV+3tzVPw==",
+  "dgSpecHash": "oNV8ohR/gewwNXHsvywUWTwWXsF2V0Fqrbhkn0JopnxUW6WbzmW0nuUcE1M0AfgphM7dvtwruH8gLgwX3Cz6LQ==",
   "success": true,
   "projectFilePath": "C:\\Projects\\MicroserviceProjects\\RunDevOpsTutorial\\Shopping\\Shopping.API\\Shopping.API.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\mongodb.bson\\2.11.5\\mongodb.bson.2.11.5.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\mongodb.driver\\2.11.5\\mongodb.driver.2.11.5.nupkg.sha512",
