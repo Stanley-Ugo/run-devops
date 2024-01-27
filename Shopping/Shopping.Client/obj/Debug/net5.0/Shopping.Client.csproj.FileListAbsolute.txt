@@ -38,3 +38,4 @@ C:\Projects\MicroserviceProjects\RunDevOpsTutorial\Shopping\Shopping.Client\obj\
 C:\Projects\MicroserviceProjects\RunDevOpsTutorial\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.genruntimeconfig.cache
 C:\Projects\MicroserviceProjects\RunDevOpsTutorial\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.csproj.CopyComplete
 C:\Projects\MicroserviceProjects\RunDevOpsTutorial\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.csproj.AssemblyReference.cache
+C:\Projects\MicroserviceProjects\RunDevOpsTutorial\Shopping\Shopping.Client\bin\Debug\net5.0\Newtonsoft.Json.dll
